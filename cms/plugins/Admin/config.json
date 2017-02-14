@@ -1,0 +1,30 @@
+{
+  "basics": {
+		"name": "CMS Admin",
+		"summary": "Backend.",
+		"version": "1.0",
+		"directory": "Admin",
+		"website": "https://angeal185.github.io",
+		"email": "beneaves01@hotmail.com",
+		"image": "http://cms.com/static/upload/screenshot-blank.jpg",
+		"profiles": [
+			{
+		  "network": "github",
+		  "url": "https://twitter.com/"
+		},
+		{
+		  "network": "codepen",
+		  "url": "https://twitter.com/"
+		},
+		{
+		  "network": "Twitter",
+		  "url": "https://twitter.com/"
+		},{
+		  "network": "Facebook",
+		  "url": "https://facebook.com/"
+		}]
+	  },
+  "import": [
+    "Admin"
+  ]
+}
