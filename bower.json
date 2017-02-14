@@ -1,0 +1,23 @@
+{
+  "name": "cms",
+  "authors": [
+    "ben eaves"
+  ],
+  "description": "",
+  "main": "run.py",
+  "keywords": [
+    "cms"
+  ],
+  "license": "MIT",
+  "homepage": "angeal185.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-material-design": "^4.0.2"
+  }
+}
